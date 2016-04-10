@@ -8,7 +8,7 @@ Standards-Version: 3.9.2
 Package: fireaxe-meta-security
 # Version: <enter version here; defaults to 1.0>
 Maintainer: idk <cmotc@openmailbox.org>
-Depends: apt-transport-https, apt-transport-tor, debsecan, apparmor, apparmor-docs, apparmor-profiles, apparmor-utils, ferm, nufw, rkhunter, apg, bleachbit, blueproximity, gnupg-agent, gnupg2, ssh-agent, ssh, macchanger, mat, secure-delete
+Depends: apt-transport-https, apt-transport-tor, debsecan, debian-security-support, apparmor, apparmor-docs, apparmor-profiles, apparmor-utils, ferm, nufw, rkhunter, apg, bleachbit, blueproximity, gnupg-agent, gnupg2, ssh-agent, ssh, macchanger, mat, secure-delete, tor, tor-arm, tor-geoipdb, torsocks
 Architecture: all
 # Copyright: <copyright file; defaults to GPL2>
 # Changelog: <changelog file; defaults to a generic changelog>
